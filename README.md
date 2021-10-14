@@ -12,17 +12,17 @@
 <td>$hello</td>
 <td>Greets you</td>
 </tr>
-<td>$weather <place-name></td>
+<td>$weather &ltplace-name&gt</td>
 <td>Returns the recently updated weather data of specified location</td>
 </tr>
 
 <tr>
-<td>$weather <latitude,longitude></td>
+<td>$weather &ltlatitude,longitude&gt</td>
 <td>Returns the recently updated weather data of mentioned co-ordinates</td>
 </tr>
 <tr>
-<td>$save_tags<tagName><place-name></td>
-<td>The specified location will be saved in the form of tags,</td>
+<td>$save_tags&lttagName&gt&ltplace-name&gt</td>
+<td>The specified location will be saved in the form of tags</td>
 </tr>
 <tr>
 <td>$weather #tagName</td>
