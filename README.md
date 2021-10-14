@@ -23,8 +23,11 @@
 <tr>
 <td>$weather &lt;latitude,longitude&gt;</td>
 <td>
-  * Returns the recently updated weather data of mentioned co-ordinates 
-  * co-ordinates should have only magnitudes(no degree/direction)</td>
+  <ul>
+  <li>Returns the recently updated weather data of mentioned co-ordinates</li> 
+  <li>co-ordinates should have only magnitudes(no degree/direction)</li>
+  </ul>
+</td>
 </tr>
 <tr>
 <td>$save_tags&lttagName&gt&lt;place-name&gt;</td>
