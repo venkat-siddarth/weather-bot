@@ -36,5 +36,5 @@
 
 <strong >Note:</strong>
 
-* Zip-code,post-code,postal-code can be used in place of <place-name> in second and fourth commands,which are present in above table
+* US Zipcode,UK Postcode,Canada Postalcode can be used in place of <place-name> in second and fourth commands,which are present in above table
 * Co-ordinates are also allowed in place of <place-name> in fourth command in the above table  
