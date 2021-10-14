@@ -25,7 +25,7 @@
 <td>
   <ul>
   <li>Returns the recently updated weather data of mentioned co-ordinates</li> 
-  <li>co-ordinates should have only magnitudes(no degree/direction)</li>
+  <li>Co-ordinates should have only magnitudes(no degree/direction)</li>
   </ul>
 </td>
 </tr>
