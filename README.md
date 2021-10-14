@@ -16,16 +16,16 @@
   <td>Provides list of commands</td>
   </tr>
 <tr>
-<td>$weather &ltplace-name&gt</td>
+<td>$weather &lt;place-name&gt;</td>
 <td>Returns the recently updated weather data of specified location</td>
 </tr>
 
 <tr>
-<td>$weather &ltlatitude,longitude&gt</td>
+<td>$weather &lt;latitude,longitude&gt;</td>
 <td>Returns the recently updated weather data of mentioned co-ordinates</td>
 </tr>
 <tr>
-<td>$save_tags&lttagName&gt&ltplace-name&gt</td>
+<td>$save_tags&lttagName&gt&lt;place-name&gt;</td>
 <td>The specified location will be saved in the form of tags</td>
 </tr>
 <tr>
@@ -36,5 +36,5 @@
 
 <strong >Note:</strong>
 
-* US Zipcode,UK Postcode,Canada Postalcode can be used in place of &ltplace-name&gt in second and fourth commands,which are present in above table
+* US Zipcode,UK Postcode,Canada Postalcode can be used in place of &lt;place-name&gt; in second and fourth commands,which are present in above table
 * Co-ordinates are also allowed in place of <place-name> in fourth command in the above table  
