@@ -8,10 +8,14 @@
 <th>Description</th>
 </thead>
 <tr>
-<tr>
 <td>$hello</td>
 <td>Greets you</td>
 </tr>
+<tr>
+  <td>$help</td>
+  <td>Provides list of commands</td>
+  </tr>
+<tr>
 <td>$weather &ltplace-name&gt</td>
 <td>Returns the recently updated weather data of specified location</td>
 </tr>
