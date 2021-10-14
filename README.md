@@ -9,15 +9,15 @@
 </thead>
 <tr>
 <td>$hello</td>
-<td>Greets you</td>
+<td>Greets you.</td>
 </tr>
 <tr>
   <td>$help</td>
-  <td>Provides list of commands</td>
+  <td>Provides list of commands.</td>
   </tr>
 <tr>
 <td>$weather &lt;place-name&gt;</td>
-<td>Returns the recently updated weather data of specified location</td>
+<td>Returns the recently updated weather data of specified location.</td>
 </tr>
 
 <tr>
@@ -25,21 +25,21 @@
 <td>
   <ul>
   <li>Returns the recently updated weather data of mentioned co-ordinates</li> 
-  <li>Co-ordinates should have only magnitudes(no degree/direction)</li>
+  <li>Co-ordinates should have only magnitudes(no degree/direction).</li>
   </ul>
 </td>
 </tr>
 <tr>
 <td>$save_tags&lttagName&gt&lt;place-name&gt;</td>
-<td>The specified location will be saved in the form of tags</td>
+<td>The specified location will be saved in the form of tags.</td>
 </tr>
 <tr>
 <td>$weather #tagName</td>
-<td>Finds the weather data for the value of <b>tagName<b></td>
+<td>Finds the weather data for the value of <b>tagName.<b></td>
 </tr>
 </table>
 
 <strong >Note:</strong>
 
-* US Zipcode,UK Postcode,Canada Postalcode can be used in place of &lt;place-name&gt; in second and fourth commands,which are present in above table
-* Co-ordinates are also allowed in place of <place-name> in fourth command in the above table  
+* US Zipcode,UK Postcode,Canada Postalcode can be used in place of &lt;place-name&gt; in third and fifth commands in above table.
+* Co-ordinates are also allowed in place of <place-name> in fifth command ,in the format of &lt;latitude,longitude&gt;in the above table.  
