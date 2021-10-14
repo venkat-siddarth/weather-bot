@@ -4,6 +4,7 @@ import requests
 import json
 import re
 from replit import db
+from server import keep_alive
 #import asyncio
 client = discord.Client()
 token = os.environ['TOKEN']
@@ -42,7 +43,7 @@ async def on_message(message):
     if msg.startswith("$hello"):
         await message.channel.send("Hello! {}".format(author))
     elif msg.startswith("$weather"):
-        k=re.match("^\$weather\s*(#?(([a-zA-Z\s]+)|([\d\.]+\,[\d\.]+)))$",msg)
+        k=re.match("^\$weather\s*(#?(([a-zA-Z\s\d]+)|([\d\.]+\,[\d\.]+)))$",msg)
         value=k.group(1)
         if (k):
           if (value.startswith("#")):
@@ -70,6 +71,7 @@ async def on_message(message):
         await message.channel.send("Invalid Tags")
         #if((k=re.match("^\$weather\s*(name)",msg)):
         #  print("Hello World")
+keep_alive()
 client.run(token)
 #$weather $save myhome <co-ordinates>
 #$weather #myhome
