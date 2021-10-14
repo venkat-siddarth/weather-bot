@@ -43,7 +43,7 @@ async def on_message(message):
     if msg.startswith("$hello"):
         await message.channel.send("Hello! {} .\n * To know more about the bot type $help".format(author))
     elif msg.startswith("$help"):
-      with open("document.txt","r") as file:
+      with open("DiscordCmdDoc.txt","r") as file:
         await message.channel.send(file.read())
 
     elif msg.startswith("$weather"):
