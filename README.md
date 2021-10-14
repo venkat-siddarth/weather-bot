@@ -25,8 +25,8 @@
 <td>The specified location will be saved in the form of tags,</td>
 </tr>
 <tr>
-<td>$weather #<tagName></td>
-<td>Finds the weather data for the value of tagName</td>
+<td>$weather #tagName</td>
+<td>Finds the weather data for the value of <b>tagName<b></td>
 </tr>
 </table>
 
