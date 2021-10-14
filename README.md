@@ -1,5 +1,5 @@
 # weather-bot
-<strong>BOT LINK:</strong><a href="https://discord.com/api/oauth2/authorize?client_id=893536524682035200&permissions=534723947584&scope=bot">DISCORD BOT</a>
+<strong>BOT LINK:</strong><a href="https://discord.com/api/oauth2/authorize?client_id=893536524682035200&permissions=534723947584&scope=bot">WEATHER BOT</a>
 ## This is a discord bot which gives the live weather information of specified place
 
 <table>
