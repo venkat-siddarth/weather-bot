@@ -42,5 +42,9 @@
 <strong >Note:</strong>
 
 * US Zipcode,UK Postcode,Canada Postalcode can be used in place of &lt;place-name&gt; in third and fifth commands in above table.
-* Co-ordinates are also allowed in place of <place-name> in fifth command ,in the format of &lt;latitude,longitude&gt;in the above table.  
+* Co-ordinates are also allowed in place of <place-name> in fifth command ,in the format of &lt;latitude,longitude&gt;in the above table.
+  
+  
+  
+  
 **This bot is deployed using replit and used its database is used to store tag name and their respective values**
