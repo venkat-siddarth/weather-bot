@@ -47,4 +47,4 @@
   
   
   
-**This bot is deployed using replit and used its database is used to store tag name and their respective values**
+* **This bot is deployed using replit and used its database is used to store tag name and their respective values**
