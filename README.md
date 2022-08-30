@@ -1,7 +1,7 @@
 # weather-bot
 <strong>BOT LINK:</strong><a href="https://discord.com/api/oauth2/authorize?client_id=893536524682035200&permissions=534723947584&scope=bot">WEATHER BOT</a>
 ## This is a discord bot which gives the live weather information of specified place
-## Note: This bot is deployed on a free tier server.If you face any issues,please wait for few days to resolve the issue
+
 <table>
 <thead>
 <th>Commands</th>
@@ -43,8 +43,7 @@
 
 * US Zipcode,UK Postcode,Canada Postalcode can be used in place of &lt;place-name&gt; in third and fifth commands in above table.
 * Co-ordinates are also allowed in place of &lt;place-name&gt; in fifth command ,in the format of &lt;latitude,longitude&gt;in the above table.
-  
-  
+* Note: This bot is deployed on a free tier server.If you face any issues,please wait for few days to resolve the issue
   
   
 * **This bot is deployed using replit and used its database to store tag name and their respective values**
