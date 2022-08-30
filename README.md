@@ -45,7 +45,7 @@
 * Co-ordinates are also allowed in place of &lt;place-name&gt; in fifth command ,in the format of &lt;latitude,longitude&gt;in the above table.
   
 * **This bot is deployed using replit and used its database to store tag name and their respective values**
-* **Note: This bot is deployed on a free tier server.If you face any issues,please wait for few days to resolve the issue.
+* **Note: This bot is deployed on a free tier server.If you face any issues,please wait for few days to resolve the issue.**
 
 # Demo Screenshots
 <img src="asaasd.PNG"/>
