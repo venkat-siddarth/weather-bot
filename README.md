@@ -48,3 +48,8 @@
   
   
 * **This bot is deployed using replit and used its database to store tag name and their respective values**
+
+
+# Demo Screenshots
+<img src="asaasd.PNG"/>
+<img src="aafaa.PNG"/>
